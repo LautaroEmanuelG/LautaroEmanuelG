@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lautaro Gonzalez</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lautaroemanuelg" alt="lautaroemanuelg" /></a> </p>
-
 - 🌱 I’m currently learning **Typescript, Bootstrap, SASS, JQuery**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-lautaro-emanuel.vercel.app/](https://portfolio-lautaro-emanuel.vercel.app/)
