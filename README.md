@@ -18,14 +18,16 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"/> Sobre Mí
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="Developer" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-Soy un **desarrollador Full Stack apasionado** de Mendoza, Argentina 🇦🇷, con un fuerte enfoque en crear **soluciones web innovadoras**. ¡Me encanta construir aplicaciones amigables con tecnologías modernas y siempre estoy emocionado de enfrentar nuevos desafíos!
+Soy **desarrollador Web Full Stack**, oriundo de Mendoza, Argentina 🇦🇷, con amplia experiencia creando soluciones a medida que realmente marcan la diferencia. Trabajo con tecnologías como JavaScript, TypeScript, React, PHP, Next.js y Astro, y me especializo en integración de APIs, desarrollo front-end, optimización SEO y diseño de experiencias de usuario que potencian el producto.
+
+Me apasiona analizar procesos y trabajar codo a codo con clientes para **entender sus necesidades, proponer ideas innovadoras y acompañarlos en cada etapa de la evolución de sus proyectos**. Mi enfoque está siempre puesto en ofrecer soluciones eficientes, prácticas y alineadas con los objetivos del negocio.
 
 💼 **Trabajando actualmente en More Than Clix** como FullStack Developer & Bitrix24 Developer  
 💡 **Aprendiendo** MCP, Patrones Avanzados de NextJS, N8N, Despliegues y VPS  
 🏆 **Meta:** Contribuir a **proyectos impactantes** que marquen la diferencia  
-🎾 **Dato curioso:** ¡Soy jugador de **Pádel** y me encanta cocinar nuevas recetas con amigos! 🍖
+🎾 **Dato:** ¡Soy jugador de **Pádel** y me encanta cocinar nuevas recetas con amigos! 🍖
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -55,48 +57,6 @@ Soy un **desarrollador Full Stack apasionado** de Mendoza, Argentina 🇦🇷, c
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px"/> Experiencia Profesional
-
-### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="25px"/> **More Than Clix** - *FullStack Developer & Bitrix24 Developer*
-**Julio 2024 - Presente**
-- Desarrollo de soluciones fullstack personalizadas dentro y fuera de Bitrix24
-- Participación activa en reuniones con clientes para análisis de procesos y soluciones técnicas
-- Optimización de bases de datos usando BI Builder y automatización de reportes
-- Integraciones de APIs y sistemas externos via webhooks
-- Soluciones tecnológicas para la industria de la salud en Mendoza
-
-### <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="25px"/> **Quinto Impacto** - *Frontend Developer*
-**Febrero 2024 - Mayo 2024**
-- Desarrollo completo de aplicación web siguiendo metodología Scrum
-- Participación en todo el proceso: diseño, planificación, desarrollo, testing y entrega
-- Tecnologías: React, Tailwind CSS, TypeScript
-
-### <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="25px"/> **Desarrollador Web Freelance**
-**2023 - Presente**
-- Diseño, desarrollo y despliegue de sitios web de alto rendimiento con Astro
-- Optimización SEO y enfoque en performance
-- Gestión de hosting, seguridad y mantenimiento continuo
-- Proyectos destacados: Ramiro Marra, Xumec Comercio Exterior, Bold Society
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px"/> Educación & Certificaciones
-
-- 🎓 **Tecnicatura Universitaria en Programación** - UTN (2022 - Presente)
-- 🎓 **Ingeniería en Sistemas** - UTN (2019 - 2022)
-- 🎓 **Técnico Superior en Procesos** - ETIEC (2011 - 2017)
-- 📚 **Aprendizaje Continuo**: Cursos de Casa del Futuro, Código Facilito, Platzi
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35px"/> Lo que Aporto
-
-<img align="right" alt="Developer" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-🚀 **Experiencia Full Stack**: Desde frontends en React hasta backends en PHP/Java  
-🤝 **Comunicación con Clientes**: Interacción directa con stakeholders y equipos técnicos  
-📈 **Optimización de Procesos**: Análisis y mejora de flujos de trabajo empresariales  
-🔄 **Metodologías Ágiles**: Experiencia en Scrum, Kanban y liderazgo de equipos  
-💡 **Resolución Creativa**: Me encanta encontrar soluciones innovadoras a desafíos complejos
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35px"/> ¡Conectemos!
 
